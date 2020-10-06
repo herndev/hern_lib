@@ -1,6 +1,9 @@
 <img src="https://www.softscribble.com/assets/img/service/development/1.jpg" />
-# HERN_LIB
+
+# HERN LIB
+
 > Compiled by Hernie Jabien
+
 > Mini_lib
 - Compose of useful css, fonts, and javascript libraries
 
