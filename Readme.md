@@ -1,8 +1,9 @@
-##Compiled by Hernie Jabien
+# Compiled by Hernie Jabien
 
->mini_lib - Compose of useful css, fonts, and javascript libraries
+>Mini_lib - Compose of useful css, fonts, and javascript libraries
 
->Installation:
+## Installation:
+> CSS:
 - ```<link rel="stylesheet" href="css/animate.css">```
 - ```<link rel="stylesheet" href="css/bootstrap.css">```
 - ```<link rel="stylesheet" href="css/hover.min.css">```
@@ -11,6 +12,7 @@
 - ```<link rel="stylesheet" href="css/owl.carousel.css">```
 - ```<link rel="stylesheet" href="css/owl.theme.default.css">```
 
+> JS:
 - <script src="js/jquery.min.js"></script>
 - <script src="js/bootstrap.min.js"></script>
 - <script src="js/isotope.pkgd.min.js"></script>
