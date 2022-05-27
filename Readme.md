@@ -6,7 +6,7 @@
 
 > Mini_lib
 - Compose of useful css, fonts, and javascript libraries
-
+ 
 ## Installation:
 > CSS:
 - ```<link rel="stylesheet" href="css/animate.css">```
