@@ -16,7 +16,7 @@
 - ```<link rel="stylesheet" href="css/magnific-popup.css">```
 - ```<link rel="stylesheet" href="css/owl.carousel.css">```
 - ```<link rel="stylesheet" href="css/owl.theme.default.css">```
-
+ 
 > JS:
 - <script src="js/jquery.min.js"></script>
 - <script src="js/bootstrap.min.js"></script>
